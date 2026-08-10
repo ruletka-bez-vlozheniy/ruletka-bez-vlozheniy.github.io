@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ruletka-bez-vlozheniy.github.io
+Sitemap: https://ruletka-bez-vlozheniy.github.io/sitemap.xml
